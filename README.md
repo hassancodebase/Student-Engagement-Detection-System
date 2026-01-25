@@ -117,9 +117,9 @@ Open Jupyter Notebook or Jupyter Lab and run:
 
 ## 👤 Author
 
-**MUHAMMAD HASSAN**
-Software Engineering Student
-Batch 2024 – Fall 2025
+- **MUHAMMAD HASSAN**
+- Software Engineering Student
+- Batch 2024 – Fall 2025
 
 ## ⭐ Acknowledgment
 
