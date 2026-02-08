@@ -75,7 +75,7 @@ dataset/README.md
 
 ### 1️⃣ Clone the Repository
 
-`git clone https://github.com/Muhammad-Hassan-10/Student-Engagement-Detection-System`
+`git clone https://github.com/hassancodebase/Student-Engagement-Detection-System`
 
 ### 2️⃣ Install Dependencies
 
