@@ -75,21 +75,13 @@ dataset/README.md
 
 ### 1️⃣ Clone the Repository
 
-`git clone https://github.com/Muhammad-Hassan-10/Student-Engagement-Detection-System`
+### 2️⃣ Extract the zip file of Dataset
 
-### 2️⃣ Install Dependencies
-
-`pip install -r requirements.txt`
-
-### 3️⃣ Download the Dataset
-
-- Download the dataset from Kaggle
-- Place it in the appropriate project directory
-- Update dataset paths in the notebooks if required
+### 3️⃣ Place the dataset to the appropriate directory
 
 ### 4️⃣ Run the Notebooks
 
-Open Jupyter Notebook or Jupyter Lab and run:
+Open Google Colab and run:
 
 - `StudentEngagementDetection_v1.ipynb`
 - `StudentEngagementDetection_v2.ipynb`
@@ -120,7 +112,3 @@ Open Jupyter Notebook or Jupyter Lab and run:
 - **MUHAMMAD HASSAN**
 - Software Engineering Student
 - Batch 2024 – Fall 2025
-
-## ⭐ Acknowledgment
-
-These models were developed as part of a **Project-Based Learning (PBL)** assignment for the **Artificial Intelligence course**.
