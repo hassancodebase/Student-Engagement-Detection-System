@@ -110,5 +110,5 @@ Open Google Colab and run:
 ## 👤 Author
 
 - **MUHAMMAD HASSAN**
-- Software Engineering Student
+- BS Software Engineering Student
 - Batch 2024 – Fall 2025
